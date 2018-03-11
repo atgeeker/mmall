@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Created by zhuyangyong
  */
-
 @Controller
 @RequestMapping("/product/")
 public class ProductController {
